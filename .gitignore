@@ -2,3 +2,4 @@ build/
 .vscode/
 sdkconfig.old
 objdump
+.DS_Store
